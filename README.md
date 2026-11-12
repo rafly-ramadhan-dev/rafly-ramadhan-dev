@@ -24,3 +24,4 @@ Saya memanfaatkan AI sebagai alat bantu untuk membangun proyek dan memahami kons
 ## 📫 Kontak
 
 - GitHub: [@rafly-ramadhan-dev](https://github.com/rafly-ramadhan-dev)
+- LinkedIn: [Rafly Ramadhan](www.linkedin.com/in/rafly-ramadhan-938b02417)
